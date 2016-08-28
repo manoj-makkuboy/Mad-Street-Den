@@ -7,7 +7,7 @@ Steps to Run
 
 	2. # Call
 
-		> get_costs(instances, hours, cpus, price)
+		> resalloc.ResourceAllocator().get_costs(instances, hours, cpus, price)
 
 
 
